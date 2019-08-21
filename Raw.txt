@@ -1,0 +1,6 @@
+1. git init
+2. git add . / git add <filename>
+3. git config --global user.email "example@mail.com"
+4. git config --global user.name "your user name"
+5. git commit -m "<name of version>"
+6. git status
